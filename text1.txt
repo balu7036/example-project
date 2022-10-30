@@ -28,6 +28,22 @@ here once push the code to do one thing go to control panel in select credential
 
 $ git push 
 
+$ touch text1.txt
+
+$ git add text1.txt
+
+$ git commit -m "added text1.test file"
+
+$ git status
+
+$ git push
+
 some changes in text file add or removing some data what will do here
 
-$ 
+$ git status
+
+$ git add .  (. in the sense add more files)
+
+$ git commit -m "upadted text1.txt"
+
+$ git push
