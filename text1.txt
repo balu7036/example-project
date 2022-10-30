@@ -1,0 +1,33 @@
+open github to create a repository in remote given name as example-project
+
+to create a folder in local disk name as github
+
+here right click to open gitbash here window
+ 
+now remote repository to open in local 
+
+to git clone code here
+ 
+$ git clone https://github.com/balu7036/example-project.git
+
+$ cd example-project/
+
+here in local folder to create a text file name as text.txt
+ 
+$ ll
+
+$ git status
+
+$ git add text.txt
+
+$ git status
+
+$ git commit -m "created text.txt file"
+
+here once push the code to do one thing go to control panel in select credential manager in there is select windows credentials in there is select git:https://github.com to click on "remove" because there is allready another login deatials here so when u push the code error will comes
+
+$ git push 
+
+some changes in text file add or removing some data what will do here
+
+$ 
